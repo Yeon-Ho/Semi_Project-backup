@@ -1,14 +1,12 @@
 # SEMI_PROJECT : 브랜드평점
 
-
- < SEMI_PROJECT : 브랜드평점 >
-
+ ### REALESE : release semi.zip 다운로드
 
  프로젝트 발표 PPT - 프로젝트_발표.pptx
 
  사이트 사용 설명서 - 브랜드평점_사용설명.pdf
 
- ===== ===== =====
+---
 
  [ 톰캣 사진 업로드 ]
 
@@ -16,7 +14,7 @@
 
  개인 프로필 사진 -> upload_picture.zip
 
- ===== ===== =====
+---
 
  [ 메일인증 코드 및 Oracle SQL 백업 파일]
 
@@ -24,4 +22,5 @@
 
  DB backup sql 파일 -> semi_project.sql
 
- ===== ===== =====
+---
+
