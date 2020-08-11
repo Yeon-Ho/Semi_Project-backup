@@ -1,6 +1,6 @@
 # SEMI_PROJECT : 브랜드평점
 
- ### REALESE : release semi.zip 다운로드
+ ### * REALESE : semi.zip 다운로드
 
  프로젝트 발표 PPT - 프로젝트_발표.pptx
 
@@ -8,7 +8,7 @@
 
 ---
 
- [ 톰캣 사진 업로드 ]
+### *톰캣 사진 업로드 
 
  음식 메뉴 사진 -> upload.zip
 
@@ -16,11 +16,10 @@
 
 ---
 
- [ 메일인증 코드 및 Oracle SQL 백업 파일]
+### * 메일인증 코드 및 Oracle SQL 백업 파일
 
  메일 인증 기능(계정 및 내용 기입 필) - src/web/controller/mail/MailController.java
 
  DB backup sql 파일 -> semi_project.sql
 
 ---
-
