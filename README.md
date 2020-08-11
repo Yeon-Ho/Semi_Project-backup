@@ -1,10 +1,10 @@
 # SEMI_PROJECT : 브랜드평점
 
- ### * REALESE : semi.zip 다운로드
+ ### REALESE : semi.zip 다운로드
 
- 프로젝트 발표 PPT - 프로젝트_발표.pptx
+* 프로젝트 발표 PPT - 프로젝트_발표.pptx
 
- 사이트 사용 설명서 - 브랜드평점_사용설명.pdf
+* 사이트 사용 설명서 - 브랜드평점_사용설명.pdf
 
 ---
 
