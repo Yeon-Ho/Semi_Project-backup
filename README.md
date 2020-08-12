@@ -77,14 +77,13 @@
 
 ### 5.개발 환경
 
-    |구 분|항 목|
-    |:-------:|:------:|
-    |O/S|**Windows 10**|
-    |Server / DBMS|**Tomcat 9.0 / Oracle 11g**|
-    |Framework / Platform|**Booststrap , jQuery**|
-    |Development Languages|**JAVA, JSP, JavaScript, SQL, HTML**|
-    |Pattern|**MVC MODEL2 Pattern**|
-    |Development Tools|**Ecilpse, SQL Developer,Star UML**|
-    |Share Tools|**GitHub, Source Tree**|
+|구 분|항 목|
+|:-------:|:------:|
+|O/S|**Windows 10**|
+|Server / DBMS|**Tomcat 9.0 / Oracle 11g**|
+|Framework / Platform|**Booststrap , jQuery**|
+|Development Languages|**JAVA, JSP, JavaScript, SQL, HTML**|
+|Pattern|**MVC MODEL2 Pattern**|
+|Development Tools|**Ecilpse, SQL Developer,Star UML**|
+|Share Tools|**GitHub, Source Tree**|
 
----
